@@ -53,6 +53,7 @@ group :test do
   gem 'launchy'
   gem 'database_cleaner'
   gem 'capybara-email'
+  gem 'poltergeist'
   gem 'codeclimate-test-reporter', require: nil
 end
 
